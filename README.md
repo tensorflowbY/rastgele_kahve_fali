@@ -18,6 +18,10 @@ Kahve Falı Uygulaması, kullanıcıların bir metin dosyasından rastgele kahve
    ```bash
    git clone https://github.com/kullaniciadi/rastgele_kahve_fali.git
 
+   cd random_senteces
+
+   python main.py
+
 
 ## Kullanım
 
